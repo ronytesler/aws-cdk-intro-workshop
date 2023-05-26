@@ -7,7 +7,7 @@ weight = 200
 
 We'll start with the AWS Lambda handler code.
 
-1. Create a directory `lambda` in the root of your project tree (next to the `cdk_workshop` directory).
+1. Create a directory `lambda` inside the `cdk_workshop` directory).
 2. Add a file called `lambda/hello.py` with the following contents:
 
 ```python
